@@ -1,0 +1,5 @@
+django>2
+tox
+pytest
+coverage==4.5.1
+coveralls==1.3.0
