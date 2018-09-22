@@ -1,9 +1,9 @@
 import unittest
-from unittest import mock
-from unittest.mock import MagicMock, patch, Mock
+from unittest.mock import MagicMock
+from unittest.mock import patch
 
-from django_http2_push.templatetags.static_push import do_static_push, StaticPushNode
-from django.templatetags.static import StaticNode
+from django_http2_push.templatetags.static_push import StaticPushNode
+from django_http2_push.templatetags.static_push import do_static_push
 
 
 class TestStaticPush(unittest.TestCase):
@@ -20,4 +20,3 @@ class TestStaticPush(unittest.TestCase):
     #     StaticPushNode().render(None)
 
     #     self.assertEqual(1, 1)
-
