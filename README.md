@@ -1,6 +1,6 @@
 # django_http2_push
 
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![Build Status](https://travis-ci.org/ricardochaves/django_http2_push.svg?branch=master)](https://travis-ci.org/ricardochaves/django_http2_push) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black) [![Maintainability](https://api.codeclimate.com/v1/badges/076c5d59aee18da4abc3/maintainability)](https://codeclimate.com/github/ricardochaves/django_http2_push/maintainability)
 
 A simple way to add Header LINK
 
