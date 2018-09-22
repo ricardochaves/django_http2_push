@@ -28,7 +28,7 @@ MIDDLEWARE = [
 
 ## Usage
 
-In the templates now use `static_push` instead of `static`.
+In the templates now use `static_push` instead of `staticfiles`.
 
 ![template_html](docs/images/template_html.png)
 
