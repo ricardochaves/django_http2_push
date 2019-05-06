@@ -2,4 +2,4 @@ django>2
 tox==3.9.0
 pytest==4.4.1
 coverage==4.5.3
-coveralls==1.6.0
+coveralls==1.7.0
